@@ -3,6 +3,6 @@
 Olá ! Bem vindo ao meu livro de receitas :wave:
 
 - Strogonoff de frango
-- Sopa de macaco
+- Macarrão e Sopa
 - Macarrão com queijo
 
